@@ -1,2 +1,17 @@
-# Joaqu-n-CyberZenith-Novatins
-Analista Junior de Ciberseguridad | SOC &amp; Blue Team Servicios básicos de seguridad informática para MYPES en Perú. Linux | Wazuh | SIEM | OSINT | Python básico 🌐 https://cyberzenithen-novatins.pages.dev 📍 Perú | Remoto
+# CyberZenith Novatins
+
+Servicios básicos de ciberseguridad para micro y pequeñas empresas en Perú.
+
+## Servicios
+- Monitoreo básico de seguridad (SOC L1)
+- Hardening básico Linux / Windows
+- Análisis de logs (Wazuh / SIEM)
+- Evaluaciones básicas de seguridad
+- Capacitación básica en ciberseguridad
+
+## Tecnologías
+Linux • Wazuh • Python • OSINT • SIEM
+
+## Contacto
+📧 cyberzenithen.novatins@gmail.com  
+🌐 https://cyberzenithen-novatins.pages.dev
